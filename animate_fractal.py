@@ -1,6 +1,5 @@
 import pygame
 from assets import assets
-from InputField import InputBox
 
 formula = input("f(x) = ")
 solution = int(input("number of routs => "))
